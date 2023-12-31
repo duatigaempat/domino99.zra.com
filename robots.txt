@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://domino99.zra.com/sitemap.xml
